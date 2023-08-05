@@ -1,4 +1,4 @@
-# vyos-bacsic-config
+# vyos-bacsic-config-update
 eth0: WAN
 eth1: LAN
 
